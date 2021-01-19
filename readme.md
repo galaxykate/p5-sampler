@@ -2,6 +2,9 @@
 
 I wanted to record a number of my favorite P5/Processing/Generative art tricks for my students to learn.  But ya'll are all my students!  So here are my collected best techniques (except curves & 3D because the class hadn't covered those yet!) 
 
+![animated gif of the sampler](swatches.gif)
+
+
 ### SVG images attribution
 
 Body <a href="https://www.svgrepo.com/svg/76394/standing-human-body-silhouette">SVG</a>
